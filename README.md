@@ -20,8 +20,11 @@
 ## How to run a full bitcoin node ##
 - Video tutorial Raspberry Pi 4 Bitcoin Full Node tutorial by @kdmukai: https://github.com/kdmukai/raspi4_bitcoin_node_tutorial
 - [http://www.raspberrypifullnode.com/](http://www.raspberrypifullnode.com/)
-- https://medium.com/coinmonks/how-to-run-a-bitcoin-full-node-in-6-simple-steps-a243189a5750
+- Secure & Sovereign Bitcoin in 25 Easy Steps
+[https://medium.com/@6102bitcoin/secure-sovereign-bitcoin-in-25-easy-steps-d5f2a1139b56](https://medium.com/@6102bitcoin/secure-sovereign-bitcoin-in-25-easy-steps-d5f2a1139b56)
 - https://brettmorrison.com/running-a-bitcoin-lightning-full-node-on-raspberry-pi
+- https://medium.com/coinmonks/how-to-run-a-bitcoin-full-node-in-6-simple-steps-a243189a5750
+
 
 ## Bitcoin Resources ##
 ### Podcasts ###
@@ -34,8 +37,10 @@
 ### Books ###
 - [https://thecryptoconomy.com/bitcoin-survivors-book-list/](https://thecryptoconomy.com/bitcoin-survivors-book-list/)
 - [https://bitcoin-resources.com/](https://bitcoin-resources.com/)
-
-
+### Facts & Figures ###
+- Dashboard by [@clarkmoody](https://twitter.com/clarkmoody/) 
+[https://bitcoin.clarkmoody.com/dashboard/](https://bitcoin.clarkmoody.com/dashboard/)
+- Graphs & Charts - [https://www.tradingview.com/symbols/BTCUSD/](https://www.tradingview.com/symbols/BTCUSD/)
 
 ## To investigate ##
 - Urbit - Bitcoin
